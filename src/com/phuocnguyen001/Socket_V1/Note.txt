@@ -1,0 +1,12 @@
+A trivial date server and client, illustrating simple one-way communication.
+The server sends data to the client only.
+
+
+
+
+These applications communicate insecurely.
+
+None of these applications even try to secure communication. 
+All data is sent between hosts completely in the clear. 
+The goal at this point is to illustrate the most basic applications and how they use transport-level services. 
+In real life, use a secure sockets layer.

@@ -1,0 +1,13 @@
+Sockets provide the communication mechanism between two computers using TCP
+
+
+
+Please, run this application by command window or terminal !
+
+
+Step by step to run:
+
+	1. java_c  *.java
+	2. "java MainServer 6666"
+	3. open an other command window, after: enter "java MainClient localhost 6666"
+	4. View all two windows
